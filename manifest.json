@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "fuchsblau",
+  "description": "Dark theme with vivid cyan accents on a deep blue-black background",
+  "theme": {
+    "colors": {
+      "frame":                          [13, 17, 23],
+      "frame_inactive":                 [13, 17, 23],
+      "frame_incognito":                [10, 12, 18],
+      "frame_incognito_inactive":       [10, 12, 18],
+      "toolbar":                        [28, 33, 40],
+      "tab_text":                       [184, 196, 212],
+      "tab_background_inactive":        [13, 17, 23],
+      "tab_background_inactive_frame_active": [13, 17, 23],
+      "tab_background_inactive_frame_inactive": [13, 17, 23],
+      "bookmark_text":                  [184, 196, 212],
+      "ntp_background":                 [13, 17, 23],
+      "ntp_text":                       [184, 196, 212],
+      "ntp_header":                     [28, 33, 40],
+      "omnibox_background":             [28, 33, 40],
+      "omnibox_text":                   [184, 196, 212],
+      "toolbar_button_icon":            [0, 185, 232],
+      "toolbar_text":                   [184, 196, 212]
+    },
+    "tints": {
+      "buttons":                        [0.533, 1.0, 0.45],
+      "frame_incognito":                [0.533, 0.5, 0.1]
+    }
+  }
+}
